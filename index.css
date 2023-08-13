@@ -5,3 +5,21 @@
   font-size: 20px;
 
 }
+
+*
+{
+
+padding: 10px;
+margin: 10px;
+font-size: 40px;
+
+}
+
+.container
+{
+
+background-color: red;
+padding: 20px;
+border: 0 solid purple;
+
+}

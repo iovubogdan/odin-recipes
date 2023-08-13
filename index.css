@@ -15,7 +15,25 @@ font-size: 40px;
 
 }
 
-.container
+.lasagna
+{
+
+background-color: red;
+padding: 20px;
+border: 20px solid purple;
+margin: 20px;
+}
+
+.taco
+{
+
+background-color: red;
+padding: 20px;
+border: 20px solid purple;
+margin: 20px;
+}
+
+.MacnCheese
 {
 
 background-color: red;
